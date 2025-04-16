@@ -2,7 +2,7 @@
 build:
   version: "3.0"
 accounts:
-  message: "Welcome to Boubyan accounts related production APIs "
+  message: "Welcome to Boubyan accounts related prod APIs "
   contactDetails:
     name: "Sami Hawari"
     email: "{cipher}d566079ebfb74d0eb217b5d1d4b96b0dc9b74dbd4cad9c43e3ccbc2076c5b91054a36d918bf02168e9bf0f1bb530bcec"
