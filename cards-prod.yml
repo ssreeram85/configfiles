@@ -2,7 +2,7 @@
 build:
   version: "4.0"
 cards:
-  message: "Welcome to Boubyan Cards related Production APIs "
+  message: "Welcome to Boubyan Cards related prod APIs "
   contactDetails:
     name: "Sreeram"
     email: "john@eazybank.com"
