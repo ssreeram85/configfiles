@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Boubyan accounts related Prepod APIs "
   contactDetails:
     name: "Sami Hawari"
-    email: "john@eazybank.com"
+    email: "{cipher}d566079ebfb74d0eb217b5d1d4b96b0dc9b74dbd4cad9c43e3ccbc2076c5b91054a36d918bf02168e9bf0f1bb530bcec"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
