@@ -3,7 +3,7 @@
 build:
   version: "3.0"
 cards:
-  message: "Welcome to Boubyan Cards related QA ENV APIs "
+  message: "Welcome to Boubyan Cards related QA  APIs "
   contactDetails:
     name: "Neveen"
     email: "neveen@eazybank.com"
