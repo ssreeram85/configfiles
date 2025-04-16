@@ -1,0 +1,11 @@
+
+build:
+  version: "4.0"
+cards:
+  message: "Welcome to Boubyan Cards related Prod APIs "
+  contactDetails:
+    name: "Sreeram"
+    email: "john@eazybank.com"
+  onCallSupport:
+    - (555) 555-1235
+    - (555) 523-1346

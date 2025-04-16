@@ -1,0 +1,12 @@
+
+
+build:
+  version: "3.0"
+cards:
+  message: "Welcome to Boubyan Cards related QA APIs "
+  contactDetails:
+    name: "Neveen"
+    email: "neveen@eazybank.com"
+  onCallSupport:
+    - (555) 555-1237
+    - (555) 523-1348
